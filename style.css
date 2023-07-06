@@ -63,3 +63,27 @@
     background-color: purple;
     cursor: pointer;
 }
+.about-container{
+    height: 370px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
+}
+.abt{
+    text-align: center;
+    margin: 10px;
+    font-size: 35px;
+    padding-top: 20px;
+}
+.abt-para1{
+    margin-top: 15px;
+}
+.abt-para2{
+    margin-bottom: 15px;
+}
+.about-title{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
