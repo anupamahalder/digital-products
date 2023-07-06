@@ -87,3 +87,39 @@
     font-weight: bold;
     margin-bottom: 20px;
 }
+.service-container{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    padding-bottom: 20px;
+}
+.sbox{
+    height: 290px;
+    width: 220px;
+    box-shadow: 4px 4px 15px grey;
+    background-color: rgb(26, 24, 24);
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+}
+.icon{
+    width: 100px;
+}
+.box-btn{
+    padding: 5px;
+    margin: 10px;
+    margin-bottom: 20px;
+    background-color: rgb(155, 143, 76);
+    border-radius: 2px;
+}
+.service-line{
+    color: white;
+    margin-bottom: 30px;
+}
+.service-section{
+    background-image: linear-gradient(45deg,rgb(8, 8, 8),rgb(37, 37, 37));
+}
+.service-para{
+    padding: 10px 5px;
+}
